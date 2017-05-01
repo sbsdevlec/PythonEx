@@ -1,0 +1,15 @@
+colors = ["blue", "lavender", "red", "yellow"]
+print(colors)
+color2 = sorted(colors, key=lambda color: len(color), reverse=True)
+print(colors)
+print(color2)
+print("*"*30)
+colors.sort()
+print(colors)
+colors.sort(reverse=True)
+print(colors)
+colors.sort(key=lambda color: len(color))
+print(colors)
+colors.sort(key=lambda color: len(color), reverse=True)
+print(colors)
+

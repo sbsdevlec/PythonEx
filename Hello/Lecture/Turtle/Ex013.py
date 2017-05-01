@@ -1,0 +1,20 @@
+import turtle
+import math
+a=50
+c = math.sqrt(a**2 + a**2)
+turtle.forward(c)
+turtle.left(90)
+turtle.forward(c)
+turtle.left(90)
+turtle.forward(c)
+turtle.left(90)
+turtle.forward(c)
+turtle.left(135)
+turtle.forward(math.sqrt(c**2 + c**2))
+turtle.left(90)
+turtle.forward(a)
+turtle.left(90)
+turtle.forward(a)
+turtle.left(90)
+turtle.forward(math.sqrt(c**2 + c**2))
+turtle.exitonclick()

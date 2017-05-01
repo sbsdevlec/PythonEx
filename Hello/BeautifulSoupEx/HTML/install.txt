@@ -1,0 +1,32 @@
+pip install beautifulSoup4 [엔터]
+
+Collecting beautifulSoup4
+  Downloading beautifulsoup4-4.5.3-py3-none-any.whl (85kB)
+    100% |████████████████████████████████| 92kB 360kB/s
+Installing collected packages: beautifulSoup4
+Successfully installed beautifulSoup4-4.5.3
+------------------------------------------------------------------
+
+$ pip install beautifulsoup4
+$ pip install requests
+$ pip install html5lib
+
+
+출처: http://ourcstory.tistory.com/219 [쌍쌍바나나의 블로그]
+
+파이썬 feedparser 설치 및 테스트
+
+파이썬의 RSS 파서인 feedparser 설치 및 간단한 테스트 방법입니다.
+
+feedparser 설치
+
+C:\Users\DJA>pip install feedparser
+Collecting feedparser
+  Downloading feedparser-5.2.1.zip (1.2MB)
+    100% |████████████████████████████████| 1.2MB 210kB/s
+Installing collected packages: feedparser
+  Running setup.py install for feedparser ... done
+Successfully installed feedparser-5.2.1
+
+C:\Users\DJA>
+
